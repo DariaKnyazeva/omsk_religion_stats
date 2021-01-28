@@ -17,3 +17,5 @@ The picture is not full as not all religions are registered as organisations. Fo
 Unfortunately, it is impossible to answer the question about the religion demographic data, as it is forbidden by law to publish suh information.
 
 ![Religions](https://github.com/DariaKnyazeva/omsk_religion_stats/blob/main/images/religions.png?raw=true)
+
+![Christianity](https://github.com/DariaKnyazeva/omsk_religion_stats/blob/main/images/christianity.png?raw=True)
