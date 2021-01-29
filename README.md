@@ -18,3 +18,7 @@ Unfortunately, it is impossible to answer the question about the religion demogr
 ![Religions](https://github.com/DariaKnyazeva/omsk_religion_stats/blob/main/images/religions.png?raw=true)
 
 ![Christianity](https://github.com/DariaKnyazeva/omsk_religion_stats/blob/main/images/christianity.png?raw=True)
+
+# Religion organisation activities.
+
+![Activities](https://github.com/DariaKnyazeva/omsk_religion_stats/blob/main/images/activities.png?raw=True)
